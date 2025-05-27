@@ -1,0 +1,48 @@
+{
+  "name": "sumanth-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://sumanthlagadapati.github.io/sumanth-portfolio",
+  "description": "A personal portfolio website showcasing my projects and skills.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0",
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "website",
+    "personal"
+  ],
+  "author": "sumanth  < ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://sumanthlagadapati.github.io/sumanth-portfolio"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

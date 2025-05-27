@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../github"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "github"
+	}
+}

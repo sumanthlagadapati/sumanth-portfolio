@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sumanth-portfolio/static/css/main.cf890fdb.css",
+    "main.js": "/sumanth-portfolio/static/js/main.7baa94a8.js",
+    "index.html": "/sumanth-portfolio/index.html",
+    "main.cf890fdb.css.map": "/sumanth-portfolio/static/css/main.cf890fdb.css.map",
+    "main.7baa94a8.js.map": "/sumanth-portfolio/static/js/main.7baa94a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.7baa94a8.js"
+  ]
+}
